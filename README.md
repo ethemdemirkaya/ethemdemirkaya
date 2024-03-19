@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **pawn**
+- 💬 Ask me about **Pawn Language**
 
 - 📫 How to reach me **ethemdemirkay189@gmail.com**
 
