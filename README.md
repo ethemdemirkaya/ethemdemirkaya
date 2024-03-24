@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Pawn Language**
 
-- 📫 How to reach me **ethemdemirkay189@gmail.com**
+- 📫 How to reach me **ethemdemirkaya189@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
