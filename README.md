@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethemdemirkaya&label=Profile%20views&color=b4980e&style=flat-square" alt="ethemdemirkaya" /> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **javascript**
 
 - 💬 Ask me about **Pawn Language**
 
