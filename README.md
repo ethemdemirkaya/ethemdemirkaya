@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethem Demirkaya</h1>
+
 # 💫 About Me:
+
 🔭 I’m currently working on developing practical web and desktop applications using C# WinForms, PHP, JavaScript, and exploring React & Next.js.<br>👯 I’m looking to collaborate on open-source projects and real-world web applications using React, PHP, or C#.<br>🤝 I’m looking for help with improving my React and Next.js skills and learning best practices in frontend development.<br>🌱 I’m currently learning React, Next.js, Tailwind CSS, advanced JavaScript.<br>💬 Ask me about C#, WinForms, PHP, SQL, beginner project ideas, or how to start programming.<br>
 
 
@@ -14,10 +16,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethemdemirkaya&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ethemdemirkaya&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ethemdemirkaya&icon=9&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ethemdemirkaya) 
 
   
-##
