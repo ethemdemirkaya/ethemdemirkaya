@@ -18,7 +18,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethemdemirkaya&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ethemdemirkaya&icon=9&color=0)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ethemdemirkaya&color=blueviolet" alt="ethemdemirkaya" /> </p>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ethemdemirkaya) 
