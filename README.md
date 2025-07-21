@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=800&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ethem" alt="Typing SVG" /></a></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=800&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ethem" alt="Typing SVG" /></h1>
 
 # 💫 About Me:
 
