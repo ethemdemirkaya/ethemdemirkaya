@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on developing practical web and desktop applications using C# WinForms, PHP, JavaScript, and exploring React & Next.js.<br>👯 I’m looking to collaborate on open-source projects and real-world web applications using React, PHP, or C#.<br>🤝 I’m looking for help with improving my React and Next.js skills and learning best practices in frontend development.<br>🌱 I’m currently learning React, Next.js, Tailwind CSS, advanced JavaScript.<br>💬 Ask me about C#, WinForms, PHP, SQL, beginner project ideas, or how to start programming.<br>
+🔭 I’m currently working on developing practical web and desktop applications using C# WinForms, PHP, JavaScript, and exploring React & Next.js.<br>👯 I’m looking to collaborate on open-source projects and real-world web applications using PHP or C#.<br>🤝 I’m looking for help with improving my React and Next.js skills and learning best practices in frontend development.<br>🌱 I’m currently learning React, Next.js, Tailwind CSS, advanced JavaScript.<br>💬 Ask me about C#, WinForms, PHP, SQL, beginner project ideas, or how to start programming.<br>
 
 
 ## 🌐 Socials:
