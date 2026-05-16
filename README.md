@@ -29,7 +29,7 @@ const ethem = {
   location: "Türkiye 🇹🇷",
   education: "Software Engineering @ Kayseri University",
   currentFocus: ["Laravel", "React", "Next.js", "TailwindCSS"],
-  passions: ["Web Development", "Game Server Dev", "Robotics"],
+  passions: ["Web Development", "Game Server Dev"],
   learning: "Advanced React patterns & System Design",
   funFact: "8+ years of Pawn scripting before formal CS education!"
 };
