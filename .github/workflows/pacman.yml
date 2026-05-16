@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
@@ -15,13 +15,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Pacman Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          outputs_path: dist
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v5
