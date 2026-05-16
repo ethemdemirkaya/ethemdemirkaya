@@ -109,12 +109,13 @@ const ethem = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ethemdemirkaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethemdemirkaya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ethemdemirkaya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF" alt="GitHub Stats" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethemdemirkaya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ethemdemirkaya&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+<img src="https://streak-stats.demolab.com?user=ethemdemirkaya&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
 
 </div>
 
