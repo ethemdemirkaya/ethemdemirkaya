@@ -116,15 +116,6 @@ const ethem = {
 
 <br/>
 
-<!-- =========================== TROPHIES =========================== -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ethemdemirkaya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
-<br/>
-
 <!-- =========================== ACTIVITY GRAPH =========================== -->
 ## 📈 Contribution Activity
 
